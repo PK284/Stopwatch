@@ -12,7 +12,6 @@ public class MainActivity extends AppCompatActivity {
     Chronometer chronometer;
     Button startBtn, pauseBtn, resetBtn;
     long stopTime = 0;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
